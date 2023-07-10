@@ -1,0 +1,26 @@
+@charset "UTF8";
+
+div.quadrado {
+    display: inline-block;
+    margin: 10px;
+    width: 400px;
+    height: 400px;
+    background-color: aqua;
+    border: 4px solid black;
+    border-radius: 40px;
+}
+div#q1 {
+background-image: url(imagens/img01.png);
+}
+
+div#q2 {
+background-image: url(imagens/img02.jpg);
+}
+
+div#q3 {
+background-image: url(imagens/img03.png);
+}
+
+body {
+    background-color: aquamarine;
+}
