@@ -10,10 +10,7 @@ body, html {
     background-color: rgb(255, 255, 255);
 }
 header {
-    background-color: rgba(128, 128, 128, 0.781);
-    border-radius: 12px 12px;
-    
-    
+     background-color: rgba(128, 128, 128, 0.781);
 }
 
 header > h1 {
@@ -56,12 +53,12 @@ menu > ul > li > a:hover {
 }
 
 main {
-   width: 90%;
+   width: 90vw;
    background-color: rgba(97, 190, 159, 0.425);
-   margin-top: 12px;
    margin: auto;
+   margin-top: 12px;
    padding: 12px;
-   border-radius: 12px;
+   border-radius: 4px;
 }
 
 article > h2 {
