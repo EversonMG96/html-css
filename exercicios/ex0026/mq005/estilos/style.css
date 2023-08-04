@@ -21,8 +21,21 @@ header > h1 {
     text-align: center;
 }
 
+span#burguer {
+    background-color: aquamarine;
+    display: block;
+    text-align: center;
+    padding: 9px;
+    cursor: pointer;
+}
+
+span#burguer:hover {
+    background-color: aquamarine;
+    color: black;
+}
+
 menu {
- display: block;
+ display: none;
 }
 
 menu > ul {
